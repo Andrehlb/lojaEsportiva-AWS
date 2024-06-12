@@ -1,1 +1,2 @@
+em construção 🚧
 # lojaEsportiva-AWS
