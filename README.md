@@ -1,0 +1,1 @@
+# lojaEsportiva-AWS
