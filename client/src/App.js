@@ -1,11 +1,11 @@
 import React from 'react';
-import ProductForm from './Home';
+import Home from './Home';
 
 const App = () => {
   return (
     <div className="Loja">
       <h1>Bem vindo à Loja de Produtos Esportivos</h1>
-      <Home /> {/* Renderiza o componente ProductForm */}
+      <Home />
     </div>
   );
 };
