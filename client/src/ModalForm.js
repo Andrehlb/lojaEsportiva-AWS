@@ -25,6 +25,7 @@ const ModalForm = () => {
                 <input type="text" name="name" value={item.name}
 onChange={handleChange} required />
             </label>
+            <button type='submit'>Salvar</button>
         </form>
     );
 };
