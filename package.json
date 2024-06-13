@@ -1,5 +1,10 @@
 {
   "dependencies": {
     "react-script": "^2.0.5"
+  },
+  
+  "resolutions": {
+    "nth-check": "2.0.1"
   }
+  
 }
