@@ -1,0 +1,32 @@
+.Loja {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+
+.Loja h1 {
+  color: #333;
+  font-size: 2em;
+}
+
+.Loja p {
+  color: #666;
+  font-size: 1em;
+}
+
+.Loja button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #007BFF;
+  color: white;
+  font-size: 1em;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Loja button:hover {
+  background-color: #0056b3;
+}

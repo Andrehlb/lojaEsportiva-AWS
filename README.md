@@ -2,7 +2,7 @@ em construção 🚧
 
 # Loja de Artigos Esportivos - Deploy AWS
 
-## Sobre o Curso.
+## Sobre o Curso
 
 Este projeto é parte do curso de certificação AWS oferecido pela **Escola da Nuvem**. A Escola da Nuvem é uma instituição renomada que promove cursos de alta qualidade para profissionais de TI que desejam obter a certificação AWS.
 
