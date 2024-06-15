@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node src/Home.js"
+    "start": "node client/src/Home.js"
   },
   "dependencies": {
     "axios": "^1.7.2",
