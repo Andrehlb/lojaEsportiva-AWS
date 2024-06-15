@@ -3,6 +3,7 @@ import './App.css'
 import Home from './Home';
 import './App.css';
 const App = () => {
+  const [cartItems, setCartItems] = useState([]);
   return (
     <div className="Loja">
       <Home />
