@@ -32,10 +32,6 @@ Este projeto é uma aplicação de pedidos para uma loja de artigos esportivos. 
 - Retornar clientes
 - Agendar entregas
 
-## Próximos Passos
-
-A partir de quinta-feira, 13/06/2024, o projeto será continuado com o Mentor Luiz Filipe, focando na parte de deploy na AWS.
-
 ## Contribuição
 
 Este projeto está aberto para contribuições. Sinta-se à vontade para corrigir bugs, melhorar o código ou implementar novas funcionalidades. Faça um fork do projeto, crie uma nova branch para as suas alterações e abra um pull request quando estiver pronto para mesclar as suas alterações ao branch principal.
